@@ -1,5 +1,5 @@
 { 
   "AWS_REGION": "ap-southeast-1",
-  "STARTUP_SIGNUP_TABLE": "my-ddb-table",
+  "STARTUP_SIGNUP_TABLE": "SignUpTable",
   "NEW_SIGNUP_TOPIC": "arn:aws:sns:ap-southeast-1:943268702426:my-supercool-app"
 }
